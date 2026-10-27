@@ -35,7 +35,7 @@ In this project, I analyze the performance of a global superstore using Power BI
 - Fixed text formatting and renamed columns with clear names
 - Removed columns that were not needed
 
-### 2. Data Modeling
+### 2. Data Modeling (Star Schema)
 
 - Created a **date table** to analyze the data by year, quarter, and month
 - Linked the tables with **relationships**
