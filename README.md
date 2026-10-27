@@ -13,7 +13,7 @@ In this project, I analyze the performance of a global superstore using Power BI
 
 ## 📂 Data Source
 
-- **Type:** open-source dataset in CSV format
+- **Type:** open-source dataset in Excel format (.xlsx)
 - **Size:** 9,995 rows and 24 columns
 - **Period:** 2017 to 2020
 - **Content:** orders, customers, products, locations, sales, quantity, discount, and profit
